@@ -146,11 +146,8 @@ img {
   background-color: #6c8cff;
 }
 
-nav {
-  margin: 24px 0 0 24px;
-}
-
 .nav-list {
+  margin: 24px 0 0 24px;
   display: flex;
   flex-direction: column;
   gap: 5px;
